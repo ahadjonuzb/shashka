@@ -1,7 +1,7 @@
 import telebot
 # Manba @API_KOD 
 from telebot import types
-bot = telebot.TeleBot('1690740823:AAHq2r4C6z3r6Wuib3rAAMFC0t3ghRaIL38')
+bot = telebot.TeleBot('1379617887:AAE5JWgAlIS7u08sdSw8HB6SVQWOhf0eBAg')
 first = ""
 second = ""
 click = 'first'
